@@ -21,7 +21,7 @@ public class Main {
         xFact.heat = "100000";
 
         FeatureStars facx = new FeatureStars();
-        facx.color = green;
+        facx.color = "green";
         facx.radius = "10000KM";
         facx.size = "999999";
     }
