@@ -24,6 +24,13 @@ public class Main {
         facx.color = "green";
         facx.radius = "10000KM";
         facx.size = "999999";
+
+        //adding features for planet2
+        PlanetTwo Oslo = new PlanetTwo();
+        Oslo.color = "dark black";
+        Oslo.size = "34343";
+        Oslo.name = "jkjkj";
+
     }
 }
 
