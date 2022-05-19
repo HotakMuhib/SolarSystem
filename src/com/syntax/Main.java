@@ -24,6 +24,9 @@ public class Main {
         facx.color = "green";
         facx.radius = "10000KM";
         facx.size = "999999";
+        //adding features for planetone
+        PlanetOne one = new PlanetOne();
+        one.name = "planeOne";
     }
 }
 
